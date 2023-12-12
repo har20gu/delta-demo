@@ -1,2 +1,2 @@
 # delta-demo
-ist step to learn github
+1st step to learn github
